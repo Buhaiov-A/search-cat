@@ -2,10 +2,10 @@
   "name": "search-cat",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Buhaiov-A.github.io/search-cat",
+  "homepage": "https://Buhaiov-A.github.io/search-cat/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /search-cat/"
   },
   "repository": {
     "type": "git",
